@@ -56,5 +56,8 @@
 ![](https://github.com/itcoderyhl/novel/blob/main/images/27.png)
 ![](https://github.com/itcoderyhl/novel/blob/main/images/28.png)
 ![](https://github.com/itcoderyhl/novel/blob/main/images/29.png)
+![](https://github.com/itcoderyhl/novel/blob/main/images/30.png)
+![](https://github.com/itcoderyhl/novel/blob/main/images/31.png)
+![](https://github.com/itcoderyhl/novel/blob/main/images/32.png)
 
 
